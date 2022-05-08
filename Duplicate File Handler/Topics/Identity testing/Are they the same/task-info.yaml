@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: id(a) is id(b)
+- text: a == b
+- text: id(a) == id(b)
+- text: a is b
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8079#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 02 May 2022 22:48:01 UTC
+record: -1
+selected_options:
+- 2
+- 3
+custom_name: Are they the same?

@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: testClass
+- text: test_class
+- text: Test_Class
+- text: Test_class
+- text: TestClass
+- text: testclass
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6662#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 08 May 2022 09:30:07 UTC
+record: -1
+selected_options:
+- 4

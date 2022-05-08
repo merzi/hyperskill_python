@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    a = input()
+    b = input()
+    # run the membership test below
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8832#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 15 Apr 2022 13:38:44 UTC
+record: -1

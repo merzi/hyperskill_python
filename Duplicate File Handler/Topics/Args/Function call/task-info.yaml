@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Form a tuple of elements and pass it as an argument.
+- text: Use the unpacking operator  <code>*</code> for iterable objects.
+- text: Pass a list of items as an argument.
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9549#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 04 May 2022 23:17:11 UTC
+record: -1
+selected_options:
+- 1

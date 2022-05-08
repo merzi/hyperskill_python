@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: c &gt;= d
+- text: a is b
+- text: a * b != c
+- text: a &gt; c
+- text: d &gt; b
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5922#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 02 May 2022 22:52:03 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 4
+custom_name: Find "true"

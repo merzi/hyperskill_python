@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Opening files
+- text: 'Managing the resources '
+- text: Handling exceptions
+- text: Making the code more concise
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8706#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 07 May 2022 12:30:48 UTC
+record: -1
+selected_options:
+- 1

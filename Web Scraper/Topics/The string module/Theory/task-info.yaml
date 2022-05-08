@@ -1,0 +1,23 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+- name: Moderna_COVID_vaccine_becomes_second_to_get_US_authorization.txt
+  visible: true
+  learner_created: true
+- name: Biden’s_pick_to_head_US_environment_agency_heartens_scientists.txt
+  visible: true
+  learner_created: true
+- name: Is_lightning_striking_the_Arctic_more_than_ever_before.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/15332#comment
+status: Solved
+feedback:
+  time: Mon, 02 May 2022 20:04:33 UTC
+record: -1
+post_submission_on_open: true
