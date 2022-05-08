@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Leave the whole pie for you.
+- text: Convert the input value to <code>float</code> rather than <code>int</code>.
+- text: Read the numbers as floats and then round them up to the closest integer.
+- text: Print a message for the guests that pieces should be whole.
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9352#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 09 Apr 2022 22:25:58 UTC
+record: -1
+selected_options:
+- 1
+- 2

@@ -1,0 +1,23 @@
+type: string
+custom_name: If this is not a string, then what is this?
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 45
+    placeholder_text: type your solution here
+    initial_state:
+      length: 45
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+  text: type your solution here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14189#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 09 Apr 2022 22:23:18 UTC
+record: -1

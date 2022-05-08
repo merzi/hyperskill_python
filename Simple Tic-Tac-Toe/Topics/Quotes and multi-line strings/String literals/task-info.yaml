@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Triple quotes
+- text: Backslashes
+- text: Single quotes
+- text: Double quotes
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6878#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 11 Apr 2022 16:21:46 UTC
+record: -1
+selected_options:
+- 3

@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: string = input()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7174#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 09 Apr 2022 21:04:05 UTC
+record: -1

@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    scores = input().split()
+    # put your python code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6609#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 12 Apr 2022 21:57:06 UTC
+record: -1
