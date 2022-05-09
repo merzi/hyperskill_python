@@ -93,6 +93,28 @@ files:
     if __name__ == '__main__':
         TestStage6("cconverter.cconverter").run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/157/stages/822/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/12124#comment
+status: Failed
+feedback:
+  message: |-
+    Exception in test #1
+
+    Traceback (most recent call last):
+      File "cconverter.py", line 128, in <module>
+        exchanger.start()
+      File "cconverter.py", line 22, in start
+        if self.add_exchange_rates(self.primary_currency_code) is False:
+      File "cconverter.py", line 90, in add_exchange_rates
+        self.exchange_rates[currency_code].update({code.upper(): request_result[code]})
+    KeyError: 'USD'
+
+    Please find below the output of your program during this failed test.
+    Note that the '>' character indicates the beginning of the input line.
+
+    ---
+
+    > usd
+    unknown foreign currency code 'USD'!
+    > eur
+  time: Sun, 08 May 2022 22:16:57 UTC
 record: -1

@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: filter( )
+- text: map( )
+- text: sum( )
+- text: sort( )
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8124#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 09 May 2022 20:27:27 UTC
+record: -1
+selected_options:
+- 1
+custom_name: Which function to use?
